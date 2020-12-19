@@ -35,7 +35,7 @@ const logger = function() {
 
 logger();
 
-const calc1 = (a, b) => a + b;
+const calcc = (a, b) => a + b;
 // Создаём переменную, в которую помещаем функцию. В круглые скобки помещаем аргументы
 
 const calc1 = (a, b) => {
